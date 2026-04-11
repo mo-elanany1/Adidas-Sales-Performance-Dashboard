@@ -116,7 +116,7 @@ This dashboard enables decision-makers to:
 ---
 
 ## Dashboard Preview
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/dashboard1.png)
 
 ---
 
