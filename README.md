@@ -116,8 +116,21 @@ This dashboard enables decision-makers to:
 ---
 
 ## Dashboard Preview
-![Dashboard](Images/dashboard1.png)
 
+### Overview Dashboard
+![Dashboard 1](Images/1.jpeg)
+
+### Sales Analysis
+![Dashboard 2](Images/2.jpeg)
+
+### Regional Performance
+![Dashboard 3](Images/3.jpeg)
+
+### Product Insights
+![Dashboard 4](Images/4.jpeg)
+
+### Monthly Trends
+![Dashboard 5](Images/5.jpeg)
 ---
 
 ## Future Improvements
