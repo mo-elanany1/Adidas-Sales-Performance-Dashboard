@@ -143,6 +143,8 @@ Potential enhancements include:
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C896?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedelenany.netlify.app/)
+
 ## Author
 **Mohamed Elenany**  
 Data Analyst | Business Intelligence Enthusiast  
